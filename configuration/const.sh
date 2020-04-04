@@ -1,0 +1,3 @@
+TAG="0.0.1.v20200404"
+IMAGE="rhoon"
+IMAGE_TAG=""${IMAGE}":"${TAG}""
