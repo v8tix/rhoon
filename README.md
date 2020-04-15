@@ -29,7 +29,7 @@ Welcome to the Rhoon project. This image is part of the [k8sb](https://github.co
   * build.
     * The Docker file, and the container artifacts need must be included here.
     * Also in this directory you can find the build.sh script. Execute it if you plan to build this image. 
-    * Once the image was built, you can go to the executables directory.
+    * Once the image was build, you can go to the executables directory.
   * executables.
     * Each script under this directory wraps a useful Docker command.
     * To give a try the container:
